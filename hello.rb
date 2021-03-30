@@ -107,3 +107,8 @@ while i <= 10 do
     puts i
     i += 1
   end
+
+a = gets.to_i
+b = gets.to_i
+
+puts a * b
