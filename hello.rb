@@ -134,3 +134,8 @@ while i <= count do
 end
 
 puts "計算を終了します"
+
+def greeting
+  "Hello"
+end
+puts greeting
